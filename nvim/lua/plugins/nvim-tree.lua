@@ -18,6 +18,7 @@ return {
         relativenumber = true,
       },
       renderer = {
+        root_folder_label = false,
         highlight_git = true,
         indent_markers = {
           enable = true,
